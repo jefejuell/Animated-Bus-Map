@@ -11,8 +11,17 @@ body {
 
 .map-overlay {
   position: absolute;
-  left: 0;
+  left: 400px;
   padding: 10px;
   margin: auto;
   background: maroon;
+}
+
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: maroon;
+  color: white;
 }
