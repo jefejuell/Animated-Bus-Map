@@ -17,11 +17,11 @@ body {
   background: maroon;
 }
 
-.button {
+button {
   transition-duration: 0.4s;
 }
 
-.button:hover {
+button:hover {
   background-color: maroon;
   color: white;
 }
